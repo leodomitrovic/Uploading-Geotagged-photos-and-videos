@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="odjava">Log out</string>
+    <string name="podaci">Edit user data</string>
+    <string name="ime">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="lozinka">Password</string>
+    <string name="spremi">Save</string>
+    <string name="dodaj_admina">Add admin</string>
+    <string name="open">Open</string>
+    <string name="textview">TextView</string>
+    <string name="map">Map</string>
+    <string name="upload">Upload</string>
+    <string name="prijava">Log in/Sign up</string>
+    <string name="odaberi_sliku">Choose picture:</string>
+    <string name="puno_ime">Full name</string>
+    <string name="registracija">Registration</string>
+    <string name="login">Log in</string>
+    <string name="no_account">Don\'t have an account? Sign up!</string>
+    <string name="odaberi_vrstu_korisnika" />
+    <string name="profil1">User profile</string>
+    <string-array name="type_array">
+        <item>Regular User</item>
+        <item>Photographer</item>
+    </string-array>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="komentar">Komentar</string>
+    <string name="todo_ocjena">Average rate</string>
+    <string name="opis">Description</string>
+    <string name="lokacija">Location</string>
+    <string name="name">Name</string>
+    <string name="objavi">Post</string>
+    <string name="dozvoli">Approve</string>
+    <string name="post">Post</string>
+    <string name="avatar">Avatar</string>
+    <string name="prati">Follow</string>
+    <string name="uredi">Edit</string>
+    <string name="obrisi">Delete</string>
+    <string name="popular">Popular</string>
+    <string name="following">Followers</string>
+    <string name="closest">closest</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="best_rated">Best rated</string>
+    <string name="unapproved">Unapproved</string>
+    <string name="photographers">Photographers</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+</resources>
