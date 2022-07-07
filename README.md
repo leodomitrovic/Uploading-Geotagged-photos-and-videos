@@ -1,6 +1,6 @@
 # Uploading-Geotagged-photos-and-videos
 
-Ideja aplikacije je bila omogućiti objavljivanje geooznačenih fotografija i videozapisa te prikazivanje na karti u aplikaciji. Kod objavljivanja se u pozadini provjerava ima li fotografija ili videozapis geooznaku u sebi i zapamti se. Ako nema geooznaku, kreatoru sadržaja se omogućuje da ručno upiše geografsku širinu i dužinu gdje je zapis nastao. Na taj način se fotografija prikazuje na karti na lokaciji na kojoj je nastala.
+Ideja aplikacije je bila omogućiti objavljivanje geooznačenih fotografija i videozapisa te prikazivanje na karti u aplikaciji. Kod objavljivanja se u pozadini provjerava ima li fotografija ili videozapis geooznaku u sebi i zapamti se. Ako nema geooznaku, kreatoru sadržaja se omogućuje da ručno upiše geografsku širinu i dužinu gdje je zapis nastao. Na taj način se fotografija prikazuje na karti na lokaciji na kojoj je nastala, u obliku markera koji sadrži umanjena sliku ili sliku iz videozapisa. Pritiskom na marker otvara se objava.
 
 Postoje četiri vrste korisnika aplikacije:
 
